@@ -1,0 +1,16 @@
+{
+  "name": "auto-repo-mggsu0fx-1",
+  "version": "1.0.0",
+  "description": "A simple Node.js project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "hello-world",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT"
+}
